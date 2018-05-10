@@ -7,7 +7,10 @@ public class Main {
         System.out.println("222");
         System.out.println("222");
 
+        System.out.println("new line from master");
+        System.out.println("another line from master");
         System.out.println("new line from branch");
+      
     }
 
 }
