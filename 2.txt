@@ -1,4 +1,5 @@
 text in branch file
+and some moreeee
 and some moreeeeasdasdasdasd
 
 text 1 added in rebase branch
