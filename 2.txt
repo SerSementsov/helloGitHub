@@ -2,3 +2,4 @@ text in branch file
 and some moreeeeasdasdasdasd
 
 text 1 added in rebase branch
+text 2 added in rebase branch
