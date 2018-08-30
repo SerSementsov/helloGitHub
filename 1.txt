@@ -8,3 +8,4 @@ asdasd
 asdas
 
 text 1 added in master
+text 2 added in master
